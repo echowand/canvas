@@ -81,8 +81,6 @@
 		802AE89C1BAB502800CB20A3 /* canvas */ = {
 			isa = PBXGroup;
 			children = (
-				802AE8A11BAB502900CB20A3 /* AppDelegate.h */,
-				802AE8A21BAB502900CB20A3 /* AppDelegate.m */,
 				802AE8A41BAB502900CB20A3 /* ViewController.h */,
 				802AE8A51BAB502900CB20A3 /* ViewController.m */,
 				802AE8A71BAB502900CB20A3 /* Main.storyboard */,
@@ -96,6 +94,8 @@
 		802AE89D1BAB502800CB20A3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				802AE8A11BAB502900CB20A3 /* AppDelegate.h */,
+				802AE8A21BAB502900CB20A3 /* AppDelegate.m */,
 				802AE89E1BAB502900CB20A3 /* Info.plist */,
 				802AE89F1BAB502900CB20A3 /* main.m */,
 			);
